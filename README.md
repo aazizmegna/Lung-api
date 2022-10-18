@@ -1,5 +1,5 @@
 # Lung-api
 
-This is build using #FastAPI.
+This is build using Fast API.
 
-To get started fing all the required libraries to install in required.txt file
+To start, find all the required libraries to install in the required.txt file
